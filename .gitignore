@@ -1,0 +1,9 @@
+# Blacklist everything
+*
+# Whitelist .gitignore
+!.gitignore
+# Whitelist all directories
+!*/
+# Whitelist ipynb
+!*.ipynb
+.ipynb_checkpoints/
